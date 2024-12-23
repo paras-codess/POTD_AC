@@ -6,5 +6,7 @@ public:
         score+=abs((int)s[i]-(int)s[i+1]);
       }
       return score;
+
+      //Updated
     }
 };
